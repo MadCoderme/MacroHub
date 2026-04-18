@@ -1,9 +1,10 @@
+[
 {
     "Id": "chrome-dev-essentials",
     "Name": "Dev Essentials",
     "Author": "Test LLM",
     "Description": "A test pack with browser shortcuts. Includes custom colored icons for YouTube and GitHub.",
     "TargetExecutable": "chrome.exe",
-    "DownloadUrl": "https://raw.githubusercontent.com/MadCoderme/MacroHub/main/packs/chrome_test_pack.mpack"
+    "DownloadUrl": "https://github.com/MadCoderme/MacroHub/raw/refs/heads/main/packs/chrome_test_pack.mpack"
   }
 ]
